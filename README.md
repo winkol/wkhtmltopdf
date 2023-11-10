@@ -1,4 +1,3 @@
-![image](https://github.com/winkol/wkhtmltopdf/assets/42436665/7da06cb5-fe8c-4753-8d50-0463bf9e024b)wkhtmltopdf and wkhtmltoimage
 -----------------------------
 
 wkhtmltopdf and wkhtmltoimage are command line tools to render HTML into PDF
@@ -14,3 +13,4 @@ See https://github.com/wkhtmltopdf/packaging
 
 ## HTML 转 PDF （插件下载）
 https://github.com/wkhtmltopdf/wkhtmltopdf/releases   
+https://github.com/wkhtmltopdf/packaging/releases
